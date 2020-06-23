@@ -26,7 +26,7 @@ The code for the paper [Rethinking Knowledge Graph Propagation for Zero-Shot Lea
 There is a folder `materials/`, which contains some meta data and programs already.
 
 #### Glove Word Embedding
-1. Download: http://nlp.stanford.edu/data/glove.6B.zip
+1. Download: https://apache-mxnet.s3.cn-north-1.amazonaws.com.cn/gluon/embeddings/glove/glove.6B.zip
 2. Unzip it, find and put `glove.6B.300d.txt` to `materials/`.
 
 #### Graphs
